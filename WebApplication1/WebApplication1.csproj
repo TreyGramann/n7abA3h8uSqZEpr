@@ -137,6 +137,7 @@
     <Content Include="Scripts\respond.js" />
     <Content Include="Scripts\respond.min.js" />
     <Content Include="Scripts\_references.js" />
+    <Content Include="TextFile9.txt" />
     <Content Include="TextFile8.txt" />
     <Content Include="TextFile7.txt" />
     <Content Include="TextFile6.txt" />
